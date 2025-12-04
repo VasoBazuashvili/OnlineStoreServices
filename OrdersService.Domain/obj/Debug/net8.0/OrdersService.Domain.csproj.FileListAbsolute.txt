@@ -1,0 +1,14 @@
+C:\Users\vbazu\source\repos\OnlineStoreServices\OrdersService.Domain\bin\Debug\net8.0\OrdersService.Domain.deps.json
+C:\Users\vbazu\source\repos\OnlineStoreServices\OrdersService.Domain\bin\Debug\net8.0\OrdersService.Domain.runtimeconfig.json
+C:\Users\vbazu\source\repos\OnlineStoreServices\OrdersService.Domain\bin\Debug\net8.0\OrdersService.Domain.dll
+C:\Users\vbazu\source\repos\OnlineStoreServices\OrdersService.Domain\bin\Debug\net8.0\OrdersService.Domain.pdb
+C:\Users\vbazu\source\repos\OnlineStoreServices\OrdersService.Domain\obj\Debug\net8.0\OrdersService.Domain.csproj.AssemblyReference.cache
+C:\Users\vbazu\source\repos\OnlineStoreServices\OrdersService.Domain\obj\Debug\net8.0\OrdersService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vbazu\source\repos\OnlineStoreServices\OrdersService.Domain\obj\Debug\net8.0\OrdersService.Domain.AssemblyInfoInputs.cache
+C:\Users\vbazu\source\repos\OnlineStoreServices\OrdersService.Domain\obj\Debug\net8.0\OrdersService.Domain.AssemblyInfo.cs
+C:\Users\vbazu\source\repos\OnlineStoreServices\OrdersService.Domain\obj\Debug\net8.0\OrdersService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vbazu\source\repos\OnlineStoreServices\OrdersService.Domain\obj\Debug\net8.0\OrdersService.Domain.dll
+C:\Users\vbazu\source\repos\OnlineStoreServices\OrdersService.Domain\obj\Debug\net8.0\refint\OrdersService.Domain.dll
+C:\Users\vbazu\source\repos\OnlineStoreServices\OrdersService.Domain\obj\Debug\net8.0\OrdersService.Domain.pdb
+C:\Users\vbazu\source\repos\OnlineStoreServices\OrdersService.Domain\obj\Debug\net8.0\OrdersService.Domain.genruntimeconfig.cache
+C:\Users\vbazu\source\repos\OnlineStoreServices\OrdersService.Domain\obj\Debug\net8.0\ref\OrdersService.Domain.dll

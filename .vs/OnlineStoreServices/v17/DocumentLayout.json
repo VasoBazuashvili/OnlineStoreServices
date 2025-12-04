@@ -1,0 +1,1397 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\Read.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Read.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240AC7FC-E984-4C1C-9F6B-87C4ABBD9EC4}|OrdersService.DependencyInjection\\OrdersService.DependencyInjection.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.dependencyinjection\\dependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240AC7FC-E984-4C1C-9F6B-87C4ABBD9EC4}|OrdersService.DependencyInjection\\OrdersService.DependencyInjection.csproj|solutionrelative:ordersservice.dependencyinjection\\dependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.infrastructure\\security\\jwtauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|solutionrelative:ordersservice.infrastructure\\security\\jwtauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9603F920-69C5-4B57-9FD3-94D813C14E87}|OrdersService.WebApi\\OrdersService.WebApi.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9603F920-69C5-4B57-9FD3-94D813C14E87}|OrdersService.WebApi\\OrdersService.WebApi.csproj|solutionrelative:ordersservice.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.infrastructure\\security\\servicetokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|solutionrelative:ordersservice.infrastructure\\security\\servicetokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9603F920-69C5-4B57-9FD3-94D813C14E87}|OrdersService.WebApi\\OrdersService.WebApi.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9603F920-69C5-4B57-9FD3-94D813C14E87}|OrdersService.WebApi\\OrdersService.WebApi.csproj|solutionrelative:ordersservice.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49655414-B21F-4D14-95F4-F911F6EF2916}|ProductCatalogService.WebApi\\ProductCatalogService.WebApi.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49655414-B21F-4D14-95F4-F911F6EF2916}|ProductCatalogService.WebApi\\ProductCatalogService.WebApi.csproj|solutionrelative:productcatalogservice.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.infrastructure\\repositories\\productcatalogclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|solutionrelative:ordersservice.infrastructure\\repositories\\productcatalogclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.application\\commands\\orders\\create\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|solutionrelative:ordersservice.application\\commands\\orders\\create\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9603F920-69C5-4B57-9FD3-94D813C14E87}|OrdersService.WebApi\\OrdersService.WebApi.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9603F920-69C5-4B57-9FD3-94D813C14E87}|OrdersService.WebApi\\OrdersService.WebApi.csproj|solutionrelative:ordersservice.webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240AC7FC-E984-4C1C-9F6B-87C4ABBD9EC4}|OrdersService.DependencyInjection\\OrdersService.DependencyInjection.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.dependencyinjection\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240AC7FC-E984-4C1C-9F6B-87C4ABBD9EC4}|OrdersService.DependencyInjection\\OrdersService.DependencyInjection.csproj|solutionrelative:ordersservice.dependencyinjection\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.application\\interfaces\\iservicetokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|solutionrelative:ordersservice.application\\interfaces\\iservicetokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED8BF4-B4F7-4CEE-83E5-5C8DC38EAEE9}|ProductCatalogService.DependencyInjection\\ProductCatalogService.DependencyInjection.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.dependencyinjection\\infrastructureresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ED8BF4-B4F7-4CEE-83E5-5C8DC38EAEE9}|ProductCatalogService.DependencyInjection\\ProductCatalogService.DependencyInjection.csproj|solutionrelative:productcatalogservice.dependencyinjection\\infrastructureresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49655414-B21F-4D14-95F4-F911F6EF2916}|ProductCatalogService.WebApi\\ProductCatalogService.WebApi.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49655414-B21F-4D14-95F4-F911F6EF2916}|ProductCatalogService.WebApi\\ProductCatalogService.WebApi.csproj|solutionrelative:productcatalogservice.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9603F920-69C5-4B57-9FD3-94D813C14E87}|OrdersService.WebApi\\OrdersService.WebApi.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9603F920-69C5-4B57-9FD3-94D813C14E87}|OrdersService.WebApi\\OrdersService.WebApi.csproj|solutionrelative:ordersservice.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.application\\commands\\orders\\create\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|solutionrelative:ordersservice.application\\commands\\orders\\create\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9603F920-69C5-4B57-9FD3-94D813C14E87}|OrdersService.WebApi\\OrdersService.WebApi.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.webapi\\infrastructure\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9603F920-69C5-4B57-9FD3-94D813C14E87}|OrdersService.WebApi\\OrdersService.WebApi.csproj|solutionrelative:ordersservice.webapi\\infrastructure\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.application\\queries\\getorders\\getordersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|solutionrelative:ordersservice.application\\queries\\getorders\\getordersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.application\\queries\\getorders\\getordersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|solutionrelative:ordersservice.application\\queries\\getorders\\getordersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|solutionrelative:ordersservice.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.application\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|solutionrelative:ordersservice.application\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.application\\commands\\orders\\cancel\\cancelordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|solutionrelative:ordersservice.application\\commands\\orders\\cancel\\cancelordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.application\\queries\\getorder\\getorderbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|solutionrelative:ordersservice.application\\queries\\getorder\\getorderbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.application\\queries\\getorder\\getorderbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|solutionrelative:ordersservice.application\\queries\\getorder\\getorderbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.application\\commands\\orders\\cancel\\cancelordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|solutionrelative:ordersservice.application\\commands\\orders\\cancel\\cancelordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32F052F-8A13-492E-82CB-718212ED6A08}|OrdersService.Domain\\OrdersService.Domain.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32F052F-8A13-492E-82CB-718212ED6A08}|OrdersService.Domain\\OrdersService.Domain.csproj|solutionrelative:ordersservice.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9603F920-69C5-4B57-9FD3-94D813C14E87}|OrdersService.WebApi\\OrdersService.WebApi.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9603F920-69C5-4B57-9FD3-94D813C14E87}|OrdersService.WebApi\\OrdersService.WebApi.csproj|solutionrelative:ordersservice.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339088BA-B9F8-4E47-971F-CB8DB3520431}|ProductCatalogService.Infrastructure\\ProductCatalogService.Infrastructure.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.infrastructure\\security\\jwtauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339088BA-B9F8-4E47-971F-CB8DB3520431}|ProductCatalogService.Infrastructure\\ProductCatalogService.Infrastructure.csproj|solutionrelative:productcatalogservice.infrastructure\\security\\jwtauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.application\\interfaces\\ijwtauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|solutionrelative:ordersservice.application\\interfaces\\ijwtauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49655414-B21F-4D14-95F4-F911F6EF2916}|ProductCatalogService.WebApi\\ProductCatalogService.WebApi.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49655414-B21F-4D14-95F4-F911F6EF2916}|ProductCatalogService.WebApi\\ProductCatalogService.WebApi.csproj|solutionrelative:productcatalogservice.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49655414-B21F-4D14-95F4-F911F6EF2916}|ProductCatalogService.WebApi\\ProductCatalogService.WebApi.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49655414-B21F-4D14-95F4-F911F6EF2916}|ProductCatalogService.WebApi\\ProductCatalogService.WebApi.csproj|solutionrelative:productcatalogservice.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49655414-B21F-4D14-95F4-F911F6EF2916}|ProductCatalogService.WebApi\\ProductCatalogService.WebApi.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49655414-B21F-4D14-95F4-F911F6EF2916}|ProductCatalogService.WebApi\\ProductCatalogService.WebApi.csproj|solutionrelative:productcatalogservice.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED8BF4-B4F7-4CEE-83E5-5C8DC38EAEE9}|ProductCatalogService.DependencyInjection\\ProductCatalogService.DependencyInjection.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.dependencyinjection\\applicationresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ED8BF4-B4F7-4CEE-83E5-5C8DC38EAEE9}|ProductCatalogService.DependencyInjection\\ProductCatalogService.DependencyInjection.csproj|solutionrelative:productcatalogservice.dependencyinjection\\applicationresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240AC7FC-E984-4C1C-9F6B-87C4ABBD9EC4}|OrdersService.DependencyInjection\\OrdersService.DependencyInjection.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.dependencyinjection\\applicationresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240AC7FC-E984-4C1C-9F6B-87C4ABBD9EC4}|OrdersService.DependencyInjection\\OrdersService.DependencyInjection.csproj|solutionrelative:ordersservice.dependencyinjection\\applicationresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.application\\behaviors\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|solutionrelative:productcatalogservice.application\\behaviors\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.infrastructure\\logging\\httpclientlogginghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|solutionrelative:ordersservice.infrastructure\\logging\\httpclientlogginghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.application\\behaviors\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|solutionrelative:ordersservice.application\\behaviors\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9603F920-69C5-4B57-9FD3-94D813C14E87}|OrdersService.WebApi\\OrdersService.WebApi.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.webapi\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9603F920-69C5-4B57-9FD3-94D813C14E87}|OrdersService.WebApi\\OrdersService.WebApi.csproj|solutionrelative:ordersservice.webapi\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49655414-B21F-4D14-95F4-F911F6EF2916}|ProductCatalogService.WebApi\\ProductCatalogService.WebApi.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.webapi\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49655414-B21F-4D14-95F4-F911F6EF2916}|ProductCatalogService.WebApi\\ProductCatalogService.WebApi.csproj|solutionrelative:productcatalogservice.webapi\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED8BF4-B4F7-4CEE-83E5-5C8DC38EAEE9}|ProductCatalogService.DependencyInjection\\ProductCatalogService.DependencyInjection.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.dependencyinjection\\dependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ED8BF4-B4F7-4CEE-83E5-5C8DC38EAEE9}|ProductCatalogService.DependencyInjection\\ProductCatalogService.DependencyInjection.csproj|solutionrelative:productcatalogservice.dependencyinjection\\dependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.infrastructure\\persistence\\ordersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|solutionrelative:ordersservice.infrastructure\\persistence\\ordersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.infrastructure\\persistence\\configuration\\idempotencyrequestconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|solutionrelative:ordersservice.infrastructure\\persistence\\configuration\\idempotencyrequestconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.infrastructure\\persistence\\configuration\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|solutionrelative:ordersservice.infrastructure\\persistence\\configuration\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.infrastructure\\persistence\\configuration\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|solutionrelative:ordersservice.infrastructure\\persistence\\configuration\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.application\\validators\\cancelordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|solutionrelative:ordersservice.application\\validators\\cancelordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882F41DE-2E65-4625-8635-3089EE7AE372}|OrderService.Shared\\OrderService.Shared.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\orderservice.shared\\domainutilities\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882F41DE-2E65-4625-8635-3089EE7AE372}|OrderService.Shared\\OrderService.Shared.csproj|solutionrelative:orderservice.shared\\domainutilities\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.infrastructure\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|solutionrelative:ordersservice.infrastructure\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|solutionrelative:ordersservice.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.infrastructure\\repositories\\idempotencyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|solutionrelative:ordersservice.infrastructure\\repositories\\idempotencyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.infrastructure\\persistence\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|solutionrelative:ordersservice.infrastructure\\persistence\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339088BA-B9F8-4E47-971F-CB8DB3520431}|ProductCatalogService.Infrastructure\\ProductCatalogService.Infrastructure.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.infrastructure\\persistence\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339088BA-B9F8-4E47-971F-CB8DB3520431}|ProductCatalogService.Infrastructure\\ProductCatalogService.Infrastructure.csproj|solutionrelative:productcatalogservice.infrastructure\\persistence\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339088BA-B9F8-4E47-971F-CB8DB3520431}|ProductCatalogService.Infrastructure\\ProductCatalogService.Infrastructure.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339088BA-B9F8-4E47-971F-CB8DB3520431}|ProductCatalogService.Infrastructure\\ProductCatalogService.Infrastructure.csproj|solutionrelative:productcatalogservice.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|solutionrelative:productcatalogservice.application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.application\\interfaces\\iidempotencyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|solutionrelative:ordersservice.application\\interfaces\\iidempotencyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32F052F-8A13-492E-82CB-718212ED6A08}|OrdersService.Domain\\OrdersService.Domain.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.domain\\entities\\idempotencyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32F052F-8A13-492E-82CB-718212ED6A08}|OrdersService.Domain\\OrdersService.Domain.csproj|solutionrelative:ordersservice.domain\\entities\\idempotencyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.application\\interfaces\\iproductcatalogclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|solutionrelative:ordersservice.application\\interfaces\\iproductcatalogclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882F41DE-2E65-4625-8635-3089EE7AE372}|OrderService.Shared\\OrderService.Shared.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\orderservice.shared\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882F41DE-2E65-4625-8635-3089EE7AE372}|OrderService.Shared\\OrderService.Shared.csproj|solutionrelative:orderservice.shared\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|solutionrelative:ordersservice.application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882F41DE-2E65-4625-8635-3089EE7AE372}|OrderService.Shared\\OrderService.Shared.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\orderservice.shared\\domainutilities\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882F41DE-2E65-4625-8635-3089EE7AE372}|OrderService.Shared\\OrderService.Shared.csproj|solutionrelative:orderservice.shared\\domainutilities\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.application\\commands\\productcatalog\\updateproduct\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|solutionrelative:productcatalogservice.application\\commands\\productcatalog\\updateproduct\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.application\\commands\\productcatalog\\reducestock\\reducestockbulkcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|solutionrelative:productcatalogservice.application\\commands\\productcatalog\\reducestock\\reducestockbulkcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.application\\commands\\productcatalog\\reducestock\\reducestockbulkcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|solutionrelative:productcatalogservice.application\\commands\\productcatalog\\reducestock\\reducestockbulkcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.application\\commands\\productcatalog\\increasestock\\increasestockbulkcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|solutionrelative:productcatalogservice.application\\commands\\productcatalog\\increasestock\\increasestockbulkcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.application\\queries\\productcatalog\\getproduct\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|solutionrelative:productcatalogservice.application\\queries\\productcatalog\\getproduct\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339088BA-B9F8-4E47-971F-CB8DB3520431}|ProductCatalogService.Infrastructure\\ProductCatalogService.Infrastructure.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.infrastructure\\persistence\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339088BA-B9F8-4E47-971F-CB8DB3520431}|ProductCatalogService.Infrastructure\\ProductCatalogService.Infrastructure.csproj|solutionrelative:productcatalogservice.infrastructure\\persistence\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339088BA-B9F8-4E47-971F-CB8DB3520431}|ProductCatalogService.Infrastructure\\ProductCatalogService.Infrastructure.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.infrastructure\\persistence\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339088BA-B9F8-4E47-971F-CB8DB3520431}|ProductCatalogService.Infrastructure\\ProductCatalogService.Infrastructure.csproj|solutionrelative:productcatalogservice.infrastructure\\persistence\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D0954D-1078-472A-A065-044EF197ACD8}|ProductCatalogService.Shared\\ProductCatalogService.Shared.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.shared\\domainutilities\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D0954D-1078-472A-A065-044EF197ACD8}|ProductCatalogService.Shared\\ProductCatalogService.Shared.csproj|solutionrelative:productcatalogservice.shared\\domainutilities\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D0954D-1078-472A-A065-044EF197ACD8}|ProductCatalogService.Shared\\ProductCatalogService.Shared.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.shared\\domainutilities\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D0954D-1078-472A-A065-044EF197ACD8}|ProductCatalogService.Shared\\ProductCatalogService.Shared.csproj|solutionrelative:productcatalogservice.shared\\domainutilities\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.application\\commands\\productcatalog\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|solutionrelative:productcatalogservice.application\\commands\\productcatalog\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.application\\commands\\productcatalog\\addproduct\\addproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|solutionrelative:productcatalogservice.application\\commands\\productcatalog\\addproduct\\addproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|solutionrelative:productcatalogservice.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339088BA-B9F8-4E47-971F-CB8DB3520431}|ProductCatalogService.Infrastructure\\ProductCatalogService.Infrastructure.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.infrastructure\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339088BA-B9F8-4E47-971F-CB8DB3520431}|ProductCatalogService.Infrastructure\\ProductCatalogService.Infrastructure.csproj|solutionrelative:productcatalogservice.infrastructure\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.application\\dtos\\reducedproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|solutionrelative:productcatalogservice.application\\dtos\\reducedproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.application\\queries\\productcatalog\\getproduct\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88961C-7AAE-49E5-92CE-A369BB441DD5}|ProductCatalogService.Application\\ProductCatalogService.Application.csproj|solutionrelative:productcatalogservice.application\\queries\\productcatalog\\getproduct\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49655414-B21F-4D14-95F4-F911F6EF2916}|ProductCatalogService.WebApi\\ProductCatalogService.WebApi.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\productcatalogservice.webapi\\productcatalogservice.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{49655414-B21F-4D14-95F4-F911F6EF2916}|ProductCatalogService.WebApi\\ProductCatalogService.WebApi.csproj|solutionrelative:productcatalogservice.webapi\\productcatalogservice.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.infrastructure\\migrations\\20251203085937_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72C7199-A196-4462-8AC5-8C8D3A25D9CD}|OrdersService.Infrastructure\\OrdersService.Infrastructure.csproj|solutionrelative:ordersservice.infrastructure\\migrations\\20251203085937_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.application\\mapping\\ordermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|solutionrelative:ordersservice.application\\mapping\\ordermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32F052F-8A13-492E-82CB-718212ED6A08}|OrdersService.Domain\\OrdersService.Domain.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32F052F-8A13-492E-82CB-718212ED6A08}|OrdersService.Domain\\OrdersService.Domain.csproj|solutionrelative:ordersservice.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9603F920-69C5-4B57-9FD3-94D813C14E87}|OrdersService.WebApi\\OrdersService.WebApi.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.webapi\\models\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9603F920-69C5-4B57-9FD3-94D813C14E87}|OrdersService.WebApi\\OrdersService.WebApi.csproj|solutionrelative:ordersservice.webapi\\models\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.application\\dtos\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB19523-4EBE-4AE0-A787-E9F96A5C8DE3}|OrdersService.Application\\OrdersService.Application.csproj|solutionrelative:ordersservice.application\\dtos\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32F052F-8A13-492E-82CB-718212ED6A08}|OrdersService.Domain\\OrdersService.Domain.csproj|c:\\users\\vbazu\\source\\repos\\onlinestoreservices\\ordersservice.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32F052F-8A13-492E-82CB-718212ED6A08}|OrdersService.Domain\\OrdersService.Domain.csproj|solutionrelative:ordersservice.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Read.md",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\Read.md",
+              "RelativeDocumentMoniker": "Read.md",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\Read.md",
+              "RelativeToolTip": "Read.md",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-04T17:18:40.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.WebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "OrdersService.WebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.WebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "OrdersService.WebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAawBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:01:04.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.WebApi\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrdersService.WebApi\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.WebApi\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrdersService.WebApi\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:45:14.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "OrdersService.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.WebApi\\appsettings.json",
+              "RelativeToolTip": "OrdersService.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-04T14:22:18.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductCatalogService.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.WebApi\\appsettings.json",
+              "RelativeToolTip": "ProductCatalogService.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-03T09:07:59.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceTokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Security\\ServiceTokenProvider.cs",
+              "RelativeDocumentMoniker": "OrdersService.Infrastructure\\Security\\ServiceTokenProvider.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Security\\ServiceTokenProvider.cs",
+              "RelativeToolTip": "OrdersService.Infrastructure\\Security\\ServiceTokenProvider.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:38:14.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Security\\JwtAuthService.cs",
+              "RelativeDocumentMoniker": "OrdersService.Infrastructure\\Security\\JwtAuthService.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Security\\JwtAuthService.cs",
+              "RelativeToolTip": "OrdersService.Infrastructure\\Security\\JwtAuthService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAawB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:44:43.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductCatalogClient.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Repositories\\ProductCatalogClient.cs",
+              "RelativeDocumentMoniker": "OrdersService.Infrastructure\\Repositories\\ProductCatalogClient.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Repositories\\ProductCatalogClient.cs",
+              "RelativeToolTip": "OrdersService.Infrastructure\\Repositories\\ProductCatalogClient.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:54:56.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyResolver.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.DependencyInjection\\DependencyResolver.cs",
+              "RelativeDocumentMoniker": "OrdersService.DependencyInjection\\DependencyResolver.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.DependencyInjection\\DependencyResolver.cs",
+              "RelativeToolTip": "OrdersService.DependencyInjection\\DependencyResolver.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:35:56.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateOrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Commands\\Orders\\Create\\CreateOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "OrdersService.Application\\Commands\\Orders\\Create\\CreateOrderCommandHandler.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Commands\\Orders\\Create\\CreateOrderCommandHandler.cs",
+              "RelativeToolTip": "OrdersService.Application\\Commands\\Orders\\Create\\CreateOrderCommandHandler.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAawEIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T11:50:15.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IServiceTokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Interfaces\\IServiceTokenProvider.cs",
+              "RelativeDocumentMoniker": "OrdersService.Application\\Interfaces\\IServiceTokenProvider.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Interfaces\\IServiceTokenProvider.cs",
+              "RelativeToolTip": "OrdersService.Application\\Interfaces\\IServiceTokenProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:42:10.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InfrastructureServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.DependencyInjection\\InfrastructureServiceRegistration.cs",
+              "RelativeDocumentMoniker": "OrdersService.DependencyInjection\\InfrastructureServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.DependencyInjection\\InfrastructureServiceRegistration.cs",
+              "RelativeToolTip": "OrdersService.DependencyInjection\\InfrastructureServiceRegistration.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA8wBwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:06:58.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InfrastructureResolver.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.DependencyInjection\\InfrastructureResolver.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.DependencyInjection\\InfrastructureResolver.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.DependencyInjection\\InfrastructureResolver.cs",
+              "RelativeToolTip": "ProductCatalogService.DependencyInjection\\InfrastructureResolver.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:00:18.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Commands\\Orders\\Create\\CreateOrderCommand.cs",
+              "RelativeDocumentMoniker": "OrdersService.Application\\Commands\\Orders\\Create\\CreateOrderCommand.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Commands\\Orders\\Create\\CreateOrderCommand.cs",
+              "RelativeToolTip": "OrdersService.Application\\Commands\\Orders\\Create\\CreateOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T10:30:09.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductCatalogService.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductCatalogService.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-04T16:02:21.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.WebApi\\Infrastructure\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "OrdersService.WebApi\\Infrastructure\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.WebApi\\Infrastructure\\BaseApiController.cs",
+              "RelativeToolTip": "OrdersService.WebApi\\Infrastructure\\BaseApiController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAASwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:46:02.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OrdersService.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OrdersService.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-04T15:59:24.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetOrdersQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Queries\\GetOrders\\GetOrdersQueryHandler.cs",
+              "RelativeDocumentMoniker": "OrdersService.Application\\Queries\\GetOrders\\GetOrdersQueryHandler.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Queries\\GetOrders\\GetOrdersQueryHandler.cs",
+              "RelativeToolTip": "OrdersService.Application\\Queries\\GetOrders\\GetOrdersQueryHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAnwBoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T20:02:04.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetOrdersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Queries\\GetOrders\\GetOrdersQuery.cs",
+              "RelativeDocumentMoniker": "OrdersService.Application\\Queries\\GetOrders\\GetOrdersQuery.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Queries\\GetOrders\\GetOrdersQuery.cs",
+              "RelativeToolTip": "OrdersService.Application\\Queries\\GetOrders\\GetOrdersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T20:01:37.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "OrdersService.Application\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "OrdersService.Application\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:31:15.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "OrdersService.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "OrdersService.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:41:07.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetOrderByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Queries\\GetOrder\\GetOrderByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "OrdersService.Application\\Queries\\GetOrder\\GetOrderByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Queries\\GetOrder\\GetOrderByIdQueryHandler.cs",
+              "RelativeToolTip": "OrdersService.Application\\Queries\\GetOrder\\GetOrderByIdQueryHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwBgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T20:00:33.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CancelOrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Commands\\Orders\\Cancel\\CancelOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "OrdersService.Application\\Commands\\Orders\\Cancel\\CancelOrderCommandHandler.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Commands\\Orders\\Cancel\\CancelOrderCommandHandler.cs",
+              "RelativeToolTip": "OrdersService.Application\\Commands\\Orders\\Cancel\\CancelOrderCommandHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAvwCIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:53:42.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetOrderByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Queries\\GetOrder\\GetOrderByIdQuery.cs",
+              "RelativeDocumentMoniker": "OrdersService.Application\\Queries\\GetOrder\\GetOrderByIdQuery.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Queries\\GetOrder\\GetOrderByIdQuery.cs",
+              "RelativeToolTip": "OrdersService.Application\\Queries\\GetOrder\\GetOrderByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:59:07.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CancelOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Commands\\Orders\\Cancel\\CancelOrderCommand.cs",
+              "RelativeDocumentMoniker": "OrdersService.Application\\Commands\\Orders\\Cancel\\CancelOrderCommand.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Commands\\Orders\\Cancel\\CancelOrderCommand.cs",
+              "RelativeToolTip": "OrdersService.Application\\Commands\\Orders\\Cancel\\CancelOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:53:18.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "OrdersService.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "OrdersService.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:20:54.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "OrdersService.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.WebApi\\Program.cs",
+              "RelativeToolTip": "OrdersService.WebApi\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwDEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:10:09.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IJwtAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Interfaces\\IJwtAuthService.cs",
+              "RelativeDocumentMoniker": "OrdersService.Application\\Interfaces\\IJwtAuthService.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Interfaces\\IJwtAuthService.cs",
+              "RelativeToolTip": "OrdersService.Application\\Interfaces\\IJwtAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:09:18.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "JwtAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Infrastructure\\Security\\JwtAuthService.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.Infrastructure\\Security\\JwtAuthService.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Infrastructure\\Security\\JwtAuthService.cs",
+              "RelativeToolTip": "ProductCatalogService.Infrastructure\\Security\\JwtAuthService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:58:25.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.WebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.WebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.WebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ProductCatalogService.WebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:58:25.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProductCatalogService.WebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "ProductCatalogService.WebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-04T13:53:39.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApplicationResolver.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.DependencyInjection\\ApplicationResolver.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.DependencyInjection\\ApplicationResolver.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.DependencyInjection\\ApplicationResolver.cs",
+              "RelativeToolTip": "ProductCatalogService.DependencyInjection\\ApplicationResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:50:55.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ApplicationResolver.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.DependencyInjection\\ApplicationResolver.cs",
+              "RelativeDocumentMoniker": "OrdersService.DependencyInjection\\ApplicationResolver.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.DependencyInjection\\ApplicationResolver.cs",
+              "RelativeToolTip": "OrdersService.DependencyInjection\\ApplicationResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:35:43.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoggingBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\Behaviors\\LoggingBehavior.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.Application\\Behaviors\\LoggingBehavior.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\Behaviors\\LoggingBehavior.cs",
+              "RelativeToolTip": "ProductCatalogService.Application\\Behaviors\\LoggingBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:37:38.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.WebApi\\Program.cs",
+              "RelativeToolTip": "ProductCatalogService.WebApi\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAEgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T10:44:23.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HttpClientLoggingHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Logging\\HttpClientLoggingHandler.cs",
+              "RelativeDocumentMoniker": "OrdersService.Infrastructure\\Logging\\HttpClientLoggingHandler.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Logging\\HttpClientLoggingHandler.cs",
+              "RelativeToolTip": "OrdersService.Infrastructure\\Logging\\HttpClientLoggingHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:30:26.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoggingBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Behaviors\\LoggingBehavior.cs",
+              "RelativeDocumentMoniker": "OrdersService.Application\\Behaviors\\LoggingBehavior.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Behaviors\\LoggingBehavior.cs",
+              "RelativeToolTip": "OrdersService.Application\\Behaviors\\LoggingBehavior.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:26:52.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.WebApi\\Middlewares\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "OrdersService.WebApi\\Middlewares\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.WebApi\\Middlewares\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "OrdersService.WebApi\\Middlewares\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:15:26.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DependencyResolver.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.DependencyInjection\\DependencyResolver.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.DependencyInjection\\DependencyResolver.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.DependencyInjection\\DependencyResolver.cs",
+              "RelativeToolTip": "ProductCatalogService.DependencyInjection\\DependencyResolver.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAArwCUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:58:56.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.WebApi\\Middlewares\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.WebApi\\Middlewares\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.WebApi\\Middlewares\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "ProductCatalogService.WebApi\\Middlewares\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:24:36.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OrdersDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Persistence\\OrdersDbContext.cs",
+              "RelativeDocumentMoniker": "OrdersService.Infrastructure\\Persistence\\OrdersDbContext.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Persistence\\OrdersDbContext.cs",
+              "RelativeToolTip": "OrdersService.Infrastructure\\Persistence\\OrdersDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:26:55.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IdempotencyRequestConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Persistence\\Configuration\\IdempotencyRequestConfiguration.cs",
+              "RelativeDocumentMoniker": "OrdersService.Infrastructure\\Persistence\\Configuration\\IdempotencyRequestConfiguration.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Persistence\\Configuration\\IdempotencyRequestConfiguration.cs",
+              "RelativeToolTip": "OrdersService.Infrastructure\\Persistence\\Configuration\\IdempotencyRequestConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:49:16.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrderItemConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Persistence\\Configuration\\OrderItemConfiguration.cs",
+              "RelativeDocumentMoniker": "OrdersService.Infrastructure\\Persistence\\Configuration\\OrderItemConfiguration.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Persistence\\Configuration\\OrderItemConfiguration.cs",
+              "RelativeToolTip": "OrdersService.Infrastructure\\Persistence\\Configuration\\OrderItemConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:47:58.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Persistence\\Configuration\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "OrdersService.Infrastructure\\Persistence\\Configuration\\OrderConfiguration.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Persistence\\Configuration\\OrderConfiguration.cs",
+              "RelativeToolTip": "OrdersService.Infrastructure\\Persistence\\Configuration\\OrderConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:46:56.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CancelOrderCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Validators\\CancelOrderCommandValidator.cs",
+              "RelativeDocumentMoniker": "OrdersService.Application\\Validators\\CancelOrderCommandValidator.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Validators\\CancelOrderCommandValidator.cs",
+              "RelativeToolTip": "OrdersService.Application\\Validators\\CancelOrderCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:44:33.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrderService.Shared\\DomainUtilities\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "OrderService.Shared\\DomainUtilities\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrderService.Shared\\DomainUtilities\\IBaseRepository.cs",
+              "RelativeToolTip": "OrderService.Shared\\DomainUtilities\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T11:42:13.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "OrdersService.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "RelativeToolTip": "OrdersService.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:56:28.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "OrdersService.Application\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "OrdersService.Application\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:54:19.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IdempotencyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Repositories\\IdempotencyRepository.cs",
+              "RelativeDocumentMoniker": "OrdersService.Infrastructure\\Repositories\\IdempotencyRepository.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Repositories\\IdempotencyRepository.cs",
+              "RelativeToolTip": "OrdersService.Infrastructure\\Repositories\\IdempotencyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:55:37.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Persistence\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "OrdersService.Infrastructure\\Persistence\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Persistence\\BaseRepository.cs",
+              "RelativeToolTip": "OrdersService.Infrastructure\\Persistence\\BaseRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T11:43:56.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Infrastructure\\Persistence\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.Infrastructure\\Persistence\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Infrastructure\\Persistence\\BaseRepository.cs",
+              "RelativeToolTip": "ProductCatalogService.Infrastructure\\Persistence\\BaseRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T14:15:38.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductCatalogService.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:30:09.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.Application\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "ProductCatalogService.Application\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:28:29.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IIdempotencyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Interfaces\\IIdempotencyRepository.cs",
+              "RelativeDocumentMoniker": "OrdersService.Application\\Interfaces\\IIdempotencyRepository.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Interfaces\\IIdempotencyRepository.cs",
+              "RelativeToolTip": "OrdersService.Application\\Interfaces\\IIdempotencyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:54:40.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IdempotencyRequest.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Domain\\Entities\\IdempotencyRequest.cs",
+              "RelativeDocumentMoniker": "OrdersService.Domain\\Entities\\IdempotencyRequest.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Domain\\Entities\\IdempotencyRequest.cs",
+              "RelativeToolTip": "OrdersService.Domain\\Entities\\IdempotencyRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:25:27.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IProductCatalogClient.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Interfaces\\IProductCatalogClient.cs",
+              "RelativeDocumentMoniker": "OrdersService.Application\\Interfaces\\IProductCatalogClient.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Interfaces\\IProductCatalogClient.cs",
+              "RelativeToolTip": "OrdersService.Application\\Interfaces\\IProductCatalogClient.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABMAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:35:34.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "OrdersService.Application\\DTOs\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "OrdersService.Application\\DTOs\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:59:32.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrderService.Shared\\Responses\\Response.cs",
+              "RelativeDocumentMoniker": "OrderService.Shared\\Responses\\Response.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrderService.Shared\\Responses\\Response.cs",
+              "RelativeToolTip": "OrderService.Shared\\Responses\\Response.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:48:38.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrderService.Shared\\DomainUtilities\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "OrderService.Shared\\DomainUtilities\\PaginatedList.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrderService.Shared\\DomainUtilities\\PaginatedList.cs",
+              "RelativeToolTip": "OrderService.Shared\\DomainUtilities\\PaginatedList.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T10:15:48.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "GetProductByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\Queries\\ProductCatalog\\GetProduct\\GetProductByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.Application\\Queries\\ProductCatalog\\GetProduct\\GetProductByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\Queries\\ProductCatalog\\GetProduct\\GetProductByIdQueryHandler.cs",
+              "RelativeToolTip": "ProductCatalogService.Application\\Queries\\ProductCatalog\\GetProduct\\GetProductByIdQueryHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:34:04.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IncreaseStockBulkCommand.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\Commands\\ProductCatalog\\IncreaseStock\\IncreaseStockBulkCommand.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.Application\\Commands\\ProductCatalog\\IncreaseStock\\IncreaseStockBulkCommand.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\Commands\\ProductCatalog\\IncreaseStock\\IncreaseStockBulkCommand.cs",
+              "RelativeToolTip": "ProductCatalogService.Application\\Commands\\ProductCatalog\\IncreaseStock\\IncreaseStockBulkCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:22:12.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ReduceStockBulkCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\Commands\\ProductCatalog\\ReduceStock\\ReduceStockBulkCommandHandler.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.Application\\Commands\\ProductCatalog\\ReduceStock\\ReduceStockBulkCommandHandler.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\Commands\\ProductCatalog\\ReduceStock\\ReduceStockBulkCommandHandler.cs",
+              "RelativeToolTip": "ProductCatalogService.Application\\Commands\\ProductCatalog\\ReduceStock\\ReduceStockBulkCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:42:23.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ReduceStockBulkCommand.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\Commands\\ProductCatalog\\ReduceStock\\ReduceStockBulkCommand.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.Application\\Commands\\ProductCatalog\\ReduceStock\\ReduceStockBulkCommand.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\Commands\\ProductCatalog\\ReduceStock\\ReduceStockBulkCommand.cs",
+              "RelativeToolTip": "ProductCatalogService.Application\\Commands\\ProductCatalog\\ReduceStock\\ReduceStockBulkCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:21:44.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\Commands\\ProductCatalog\\UpdateProduct\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.Application\\Commands\\ProductCatalog\\UpdateProduct\\UpdateProductCommand.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\Commands\\ProductCatalog\\UpdateProduct\\UpdateProductCommand.cs",
+              "RelativeToolTip": "ProductCatalogService.Application\\Commands\\ProductCatalog\\UpdateProduct\\UpdateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:50:03.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Infrastructure\\Persistence\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.Infrastructure\\Persistence\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Infrastructure\\Persistence\\ProductDbContext.cs",
+              "RelativeToolTip": "ProductCatalogService.Infrastructure\\Persistence\\ProductDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:34:35.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Infrastructure\\Persistence\\Configuration\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.Infrastructure\\Persistence\\Configuration\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Infrastructure\\Persistence\\Configuration\\ProductConfiguration.cs",
+              "RelativeToolTip": "ProductCatalogService.Infrastructure\\Persistence\\Configuration\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:36:51.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Shared\\DomainUtilities\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.Shared\\DomainUtilities\\PaginatedList.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Shared\\DomainUtilities\\PaginatedList.cs",
+              "RelativeToolTip": "ProductCatalogService.Shared\\DomainUtilities\\PaginatedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:12:49.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "UpdateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\Commands\\ProductCatalog\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.Application\\Commands\\ProductCatalog\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\Commands\\ProductCatalog\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "RelativeToolTip": "ProductCatalogService.Application\\Commands\\ProductCatalog\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:50:17.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Shared\\DomainUtilities\\IRepository.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.Shared\\DomainUtilities\\IRepository.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Shared\\DomainUtilities\\IRepository.cs",
+              "RelativeToolTip": "ProductCatalogService.Shared\\DomainUtilities\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T14:18:45.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "AddProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\Commands\\ProductCatalog\\AddProduct\\AddProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.Application\\Commands\\ProductCatalog\\AddProduct\\AddProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\Commands\\ProductCatalog\\AddProduct\\AddProductCommandHandler.cs",
+              "RelativeToolTip": "ProductCatalogService.Application\\Commands\\ProductCatalog\\AddProduct\\AddProductCommandHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAC0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T09:32:51.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.Application\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "ProductCatalogService.Application\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:37:19.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "RelativeToolTip": "ProductCatalogService.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:38:28.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ReducedProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\DTOs\\ReducedProductDto.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.Application\\DTOs\\ReducedProductDto.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\DTOs\\ReducedProductDto.cs",
+              "RelativeToolTip": "ProductCatalogService.Application\\DTOs\\ReducedProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:20:31.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "GetProductByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\Queries\\ProductCatalog\\GetProduct\\GetProductByIdQuery.cs",
+              "RelativeDocumentMoniker": "ProductCatalogService.Application\\Queries\\ProductCatalog\\GetProduct\\GetProductByIdQuery.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.Application\\Queries\\ProductCatalog\\GetProduct\\GetProductByIdQuery.cs",
+              "RelativeToolTip": "ProductCatalogService.Application\\Queries\\ProductCatalog\\GetProduct\\GetProductByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:33:38.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ProductCatalogService.WebApi.http",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.WebApi\\ProductCatalogService.WebApi.http",
+              "RelativeDocumentMoniker": "ProductCatalogService.WebApi\\ProductCatalogService.WebApi.http",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\ProductCatalogService.WebApi\\ProductCatalogService.WebApi.http",
+              "RelativeToolTip": "ProductCatalogService.WebApi\\ProductCatalogService.WebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-03T10:20:52.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20251203085937_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Migrations\\20251203085937_InitialCreate.cs",
+              "RelativeDocumentMoniker": "OrdersService.Infrastructure\\Migrations\\20251203085937_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Infrastructure\\Migrations\\20251203085937_InitialCreate.cs",
+              "RelativeToolTip": "OrdersService.Infrastructure\\Migrations\\20251203085937_InitialCreate.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:59:38.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "OrderMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Mapping\\OrderMappingProfile.cs",
+              "RelativeDocumentMoniker": "OrdersService.Application\\Mapping\\OrderMappingProfile.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\Mapping\\OrderMappingProfile.cs",
+              "RelativeToolTip": "OrdersService.Application\\Mapping\\OrderMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T20:10:51.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OrdersService.Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "OrdersService.Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:22:18.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "CreateOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.WebApi\\Models\\CreateOrderRequest.cs",
+              "RelativeDocumentMoniker": "OrdersService.WebApi\\Models\\CreateOrderRequest.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.WebApi\\Models\\CreateOrderRequest.cs",
+              "RelativeToolTip": "OrdersService.WebApi\\Models\\CreateOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:46:21.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\DTOs\\ItemDto.cs",
+              "RelativeDocumentMoniker": "OrdersService.Application\\DTOs\\ItemDto.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Application\\DTOs\\ItemDto.cs",
+              "RelativeToolTip": "OrdersService.Application\\DTOs\\ItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:47:08.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Domain\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "OrdersService.Domain\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\vbazu\\source\\repos\\OnlineStoreServices\\OrdersService.Domain\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "OrdersService.Domain\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:23:09.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Domain\bin\Debug\net8.0\ProductCatalogService.Domain.deps.json
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Domain\bin\Debug\net8.0\ProductCatalogService.Domain.runtimeconfig.json
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Domain\bin\Debug\net8.0\ProductCatalogService.Domain.dll
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Domain\bin\Debug\net8.0\ProductCatalogService.Domain.pdb
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Domain\obj\Debug\net8.0\ProductCatalogService.Domain.csproj.AssemblyReference.cache
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Domain\obj\Debug\net8.0\ProductCatalogService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Domain\obj\Debug\net8.0\ProductCatalogService.Domain.AssemblyInfoInputs.cache
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Domain\obj\Debug\net8.0\ProductCatalogService.Domain.AssemblyInfo.cs
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Domain\obj\Debug\net8.0\ProductCatalogService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Domain\obj\Debug\net8.0\ProductCatalogService.Domain.dll
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Domain\obj\Debug\net8.0\refint\ProductCatalogService.Domain.dll
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Domain\obj\Debug\net8.0\ProductCatalogService.Domain.pdb
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Domain\obj\Debug\net8.0\ProductCatalogService.Domain.genruntimeconfig.cache
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Domain\obj\Debug\net8.0\ref\ProductCatalogService.Domain.dll

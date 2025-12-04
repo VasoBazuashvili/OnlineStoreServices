@@ -1,0 +1,12 @@
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Shared\bin\Debug\net8.0\ProductCatalogService.Shared.deps.json
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Shared\bin\Debug\net8.0\ProductCatalogService.Shared.dll
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Shared\bin\Debug\net8.0\ProductCatalogService.Shared.pdb
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Shared\obj\Debug\net8.0\ProductCatalogService.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Shared\obj\Debug\net8.0\ProductCatalogService.Shared.AssemblyInfoInputs.cache
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Shared\obj\Debug\net8.0\ProductCatalogService.Shared.AssemblyInfo.cs
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Shared\obj\Debug\net8.0\ProductCatalogService.Shared.csproj.CoreCompileInputs.cache
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Shared\obj\Debug\net8.0\ProductCatalogService.Shared.dll
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Shared\obj\Debug\net8.0\refint\ProductCatalogService.Shared.dll
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Shared\obj\Debug\net8.0\ProductCatalogService.Shared.pdb
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Shared\obj\Debug\net8.0\ref\ProductCatalogService.Shared.dll
+C:\Users\vbazu\source\repos\OnlineStoreServices\ProductCatalogService.Shared\obj\Debug\net8.0\ProductCatalogService.Shared.csproj.AssemblyReference.cache
