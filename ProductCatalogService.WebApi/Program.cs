@@ -56,9 +56,6 @@ builder.Services.AddSwaggerGen(c =>
 
 var app = builder.Build();
 
-// ---------------------------
-// Middleware
-// ---------------------------
 if (app.Environment.IsDevelopment())
 {
 	app.UseSwagger();
@@ -66,8 +63,6 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
-// ✅ Correct order: Authentication first, then Authorization
 app.UseAuthentication();
 app.UseAuthorization();
 app.UseExceptionHandler();

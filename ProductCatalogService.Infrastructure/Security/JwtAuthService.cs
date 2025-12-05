@@ -34,17 +34,23 @@ namespace ProductCatalogService.Infrastructure.Security
 				new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
 			};
 
-			var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_secretKey));
-			var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
+			var key = new Microsoft.IdentityModel.Tokens.SymmetricSecurityKey(Encoding.UTF8.GetBytes(_secretKey));
+			var creds = new Microsoft.IdentityModel.Tokens.SigningCredentials(key, Microsoft.IdentityModel.Tokens.SecurityAlgorithms.HmacSha256);
+
+			var now = DateTimeOffset.UtcNow;
+			var validUntil = now.AddHours(1);
+			long unixExp = validUntil.ToUnixTimeSeconds();
+
+			var expiresDateTime = DateTimeOffset.FromUnixTimeSeconds(unixExp).UtcDateTime;
 
 			var token = new JwtSecurityToken(
 				issuer: _issuer,
 				audience: _audience,
 				claims: claims,
-				expires: DateTime.UtcNow.AddMonths(1),
+				notBefore: now.UtcDateTime,
+				expires: expiresDateTime,
 				signingCredentials: creds
 			);
-
 			return new JwtSecurityTokenHandler().WriteToken(token);
 		}
 

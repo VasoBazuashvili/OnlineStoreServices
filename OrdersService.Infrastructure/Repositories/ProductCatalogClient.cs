@@ -9,7 +9,6 @@ namespace Orders.Infrastructure.External
 	{
 		private readonly HttpClient _http;
 		private readonly JsonSerializerOptions _options = new() { PropertyNameCaseInsensitive = true };
-		private const string DevServiceJwt = "dev-service-jwt";
 
 		public ProductCatalogClient(HttpClient http)
 		{
@@ -19,7 +18,7 @@ namespace Orders.Infrastructure.External
 		private void SetAuthorizationHeader(HttpRequestMessage message, string? bearerToken)
 		{
 			message.Headers.Authorization =
-				new AuthenticationHeaderValue("Bearer", string.IsNullOrEmpty(bearerToken) ? DevServiceJwt : bearerToken);
+				new AuthenticationHeaderValue("Bearer", bearerToken);
 		}
 
 		public async Task<IReadOnlyList<ReducedProductDto>> ReduceStockBulkAsync(

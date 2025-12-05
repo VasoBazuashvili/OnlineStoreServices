@@ -34,25 +34,19 @@ namespace OrdersService.Infrastructure.Security
 
 			var key = new Microsoft.IdentityModel.Tokens.SymmetricSecurityKey(Encoding.UTF8.GetBytes(_secretKey));
 			var creds = new Microsoft.IdentityModel.Tokens.SigningCredentials(key, Microsoft.IdentityModel.Tokens.SecurityAlgorithms.HmacSha256);
-			// 1. Current time in UTC
+
 			var now = DateTimeOffset.UtcNow;
-
-			// 2. Add desired validity period, e.g., 5 minutes
-			var validUntil = now.AddMinutes(15);
-
-			// 3. Convert to Unix timestamp (seconds since 1970-01-01 UTC)
+			var validUntil = now.AddHours(1);
 			long unixExp = validUntil.ToUnixTimeSeconds();
 
-			// 4. If needed, convert back to DateTime for JwtSecurityToken
 			var expiresDateTime = DateTimeOffset.FromUnixTimeSeconds(unixExp).UtcDateTime;
 
-			// 5. Use in JWT token
 			var token = new JwtSecurityToken(
 				issuer: _issuer,
 				audience: _audience,
 				claims: claims,
 				notBefore: now.UtcDateTime,
-				expires: expiresDateTime,      // will expire in 5 minutes
+				expires: expiresDateTime,
 				signingCredentials: creds
 			);
 
