@@ -68,7 +68,7 @@ namespace ProductCatalogService.Infrastructure.Security
 					ValidIssuer = _issuer,
 					ValidateAudience = false,
 					ValidAudience = _audience,
-					ValidateLifetime = false, // <-- ignore expiration for now
+					ValidateLifetime = true,
 					ClockSkew = TimeSpan.Zero
 				}, out SecurityToken validatedToken);
 
